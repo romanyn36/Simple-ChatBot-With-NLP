@@ -1,2 +1,2 @@
-##Chat Bot
-#full version with android app will be available soon
+## Chat Bot
+ full project with android app, enhanced model and readme will be available soon
