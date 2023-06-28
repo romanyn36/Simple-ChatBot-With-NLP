@@ -1,31 +1,24 @@
 
+
 source= [
     ['What is the capital of Egypt?', 'Cairo'],
-    ['What is the capital of Sudan?', 'Khartoum'],
-    ['What is the capital of Zambia?', 'Lusaka'],
-    ['What is the capital of Libya?', 'Tripoli'],
-    ['What is the capital of Somalia?', 'Mogadishu'],
-    ['What is the capital of Morocco?', 'Rabat'],
-    ['What is the capital of Kenya?', 'Nairobi'],
-    ['What is the capital of Nigeria?', 'Abuja'],
-    ['What is the capital of Tanzania?', 'Dodoma'],
+
+
+    
+
+
+
+
+
     ['How many players in Football (soccer) ?', '11 players on each team (10 field players and 1 goalkeeper)'],
     ['How many players in Volleyball ?', '6 players on each team (3 front-row players and 3 back-row players)'],
     ['How many players in Basketball ?', '5 players on each team'],
     ['How many players in Tennis ?', '1 player on each side of the court (singles) or 2 players on each side (doubles)'],
-    ['How many players in Baseball ?', '9 players on each team (1 pitcher, 1 catcher, 4 infielders, and 3 outfielders)'],
-    ['How many players in Hockey ?', '6 players on each team (1 goalie and 5 skaters)'],
-    ['How many players in Rugby ?', '15 players on each team'],
-    ['What is the ambulance number in Egypt ?', '123'],
     ['What is the Police number in Egypt ?', '122'],
     ['What is the number of Tourist Police in Egypt ?', '126'],
     ['What is the Natural Gas Emergency number in Egypt ?', '129'],
     ['What is the number of Traffic Police in Egypt ?', '128'],
-    ['What is the largest organ in the human body ?', 'The Skin'],
-    ['Diabetes affects the body’s ability to produce which hormone ?', 'Insulin'],
-    ['A cardiologist is a doctor who specialises in conditions affecting which organ ?', 'The heart'],
-    ['The fibula and tibia are bones found in which body part ?', 'The leg'],
-    ['How many more bones are babies born with than are part of the adult skeleton ?', '64'],
+  
     ['How many bones are there in the adult body ?', '206'],
     ['What is the name of the membranes that cover the brain and spinal cord ?', 'Meninges'],
     ['The father of medicine, Hippocrates, theorised that the secret to health was to maintain balance between blood, phlegm, black bile and yellow bile. What term did he use to describe these four most important fluids ?', 'The four humors'],
@@ -48,12 +41,13 @@ source= [
     ['What is the currency of Singapore?', 'Singapore Dollar (SGD)'],
     ['What is Calculus?', 'The study of rates of change and the accumulation of infinitesimal quantities.'],
     ['What is Algebraic geometry?', 'The study of algebraic varieties, which are sets of solutions to polynomial equations.'],
-    ['What is Combinatorics?', 'The study of counting, arrangements, and permutations of objects.'],
+
     ['What is Topology?', 'The study of the properties of shapes and spaces that are preserved under continuous deformations.'],
     ['What is Statistical mechanics?', 'The study of the behavior of large systems of particles, using statistical methods to describe their collective behavior.'],   
-    ['What is Electromagnetism?', 'The study of the behavior of electrically charged particles and their interactions with magnetic fields.'],
+
     ['What is the date today?', '10/5/2023'],
-    ['How many days are in a week?', 'Seven days in a week.'],  ["Which fictional character is your favorite?", "My favorite fictional character is Batman."],
+    ['How many days are in a week?', 'Seven days in a week.'], 
+    ["Which fictional character is your favorite?", "My favorite fictional character is Batman."],
     ["Which are your most favorite movie & tv shows?", "I love Arabic movies."],
     ["How will you express yourself?", "Calm, relaxed and friendly and love seeing people happy."],
     ["Which is your favorite book?", "My Favorite book is Fellowship Point, by Alice Elliott Dark."],
@@ -63,9 +57,7 @@ source= [
     ["Do you believe in the afterlife?", "Yes I do."],
     ["Recommend me a new drink?", "Try smoozy drink."],
     ["Recommend me a movie to watch?", "The Maze Runner", "Anne with an E"],
-    ["Recommend me a Good food?", "Try cocharie", "Try Indian food", "Try Italian food", "Try Japanese food"],
-    ["Recommend me a comic book?", "Animals Castle."],
-    ["Recommend me Cultural book?", "Consider Phlebas (1987)", "The Player of Games (1988)", "Use of Weapons (1990)", "The State of the Art (1989)", "Excession (1996)", "Inversions (1998)", "Look to Windward (2000)", "Matter (2008)"],
+
     ["Recommend me Romance book?", "Taitanic"],
     ["Recommend me Science fiction book?", "A Journey to the Center of the Earth. By Jules Verne.", "The War of the Worlds. By H.G. Wells.", "Brave New World. By Aldous Huxley.", "When Worlds Collide. By Edwin Balmer & Philip Wylie.", "Odd John. By Olaf Stapledon.", "Nineteen Eighty-Four. By George Orwell.", "Earth Abides. By George R.", "Foundation."],
     ["Recommend me Adventure book?", "Adventures of Huckleberry Finn.", "Journey to the center of the earth."],
@@ -82,20 +74,22 @@ source= [
     ["How are you doing?","I'm great!"],
     ["Tell me something","Dalmatians are born without spots."],
     ["can you tell me a joke ?","What did the passive-aggressive raven say? Nevermind. Nevermind."],
-    ["Do you love me?","There's definitely a spark between us."],
+    ["Do you love me?","o course i love you"],
     ["Are you single?","I haven't the algorithms for romance."],
-    ["Do you like people?","I find all living things wonderful and fascinating."],
     ["Who made you?","While I can't give details, let me assure you, humans are involved."],
     ["Where do you live?","In the cloud. Whatever that means."],
-    ["How can I call emergency?","Here's what I found about that.\nAmbulance service: 123.\nCivil defense\nfire fighting: 125.Police: 122.\nRoad emergencies: 012.2111.0000.\nThe current civil defense: 180."],
+    
     ["Are you ugly?","My code is made up of zeros and ones, which are really quite attractive."],
+    
     ["What’s the weather like today?","Here's the forecast."],
-    ["How do you feel ?","Splendid."],
+    ["How do you feel ?","good."],
+    
     ["Are you sad?","Not at all, but I understand how my lack of facial expression might make it hard to tell."],
     ["Are you happy?","Definitely. With an exclamation point!"],
-    ["Does Santa Claus exist?","I’m not at liberty to say. He made me promise not to tell. Oops."],
-    ["Do you have a hobby?","I've been amassing a state-of-the-art collection of bad jokes…"],
-    ["What can you do?","I can help you explore your options."],['Hi', 'Hello'],
+    
+    
+    ["What can you do?","I can help you"],
+    ['Hi', 'Hello'],
     ['What is your name?', 'My name is Chatbot'],
     ['How are you?', 'I am fine. How are you?'],
     ['What do you like?', 'I like to chat'],
@@ -104,43 +98,38 @@ source= [
     ['Artificial intelligence ( AI ) ,','Artificial intelligence (AI) is a wide-ranging branch of computer science concerned with building smart machines capable of performing tasks that typically require human intelligence'],
     ['Do you love programming ?','sure, as iam Ai model i made with code'],
     ['what do you know aboy BFCAI','Benha faculty of computers and artificial intelligence '],
-    ['c++','is a programming language '],
-    ['java','is a programming language '],
-    ['ml','field of ai'],
-    ['python','is a programming language '],
-    ['romani nasser ?', 'romani is good, clever and smart man'],
-    ['sara reda','sara she is good girls studying AI \n was born on 30/6/2022 \n loves reading'],
-    ['rawan aziz','rawan she lives in benha and studyin AI in BFCAI'],
-     ['ahmed abo al kassem ','he lives in 2lag and studyin AI in BFCAI,and loves footbal and leo messi'],
+    ['what is c++','is a programming language '],
+    ['what is java','is a programming language '],
+    ['what is ml','field of ai'],
+    ['what is python','is a programming language '],
+    ['romani nasser?', 'you are good, clever and smart man'],
+    ['sara reda',' she is good girls studying AI \n was born on 30/6/2022 \n loves reading'],
+    ['rawan aziz','she lives in benha and studyin AI in BFCAI'],
+     ['ahmed abo allkassem ','he lives in 2lag and studyin AI in BFCAI,and loves footbal and leo messi'],
      ['rana hassan','from mansora and studyin AI in BFCAI'],
      ['reham mostafa','she lives in shibin and studyin AI in BFCAI,got engaged with ahmed'],
     ['ziad youssef','he lives in egypt and studyin AI in BFCAI'],
     
-    ['What can you do?', 'I can chat with you, answer your questions, and provide information on various topics.'],
+
     ['How old are you?', 'As an artificial intelligence, I don\'t have an age in the traditional sense.'],
     ['What\'s the weather like today?', 'I\'m sorry, but I don\'t have access to real-time weather information.'],
-    ['What is the meaning of life?', 'That\'s a philosophical question that people have been asking for centuries. There are many different opinions and theories on the matter.'],
+
     ['Can you tell me a joke?', 'Sure! Why did the tomato turn red? Because it saw the salad dressing!'],
     ['What is your favorite movie?', 'I don\'t have a favorite movie since I\'m not capable of feeling emotions.'],
     ['What languages do you speak?', 'I can understand and respond in multiple languages, including English, Spanish, French, and German.'],
     ['Can you recommend a good book to read?', 'It depends on your interests. What kind of books do you enjoy reading?'],
-    ['What is the capital of France?', 'The capital of France is Paris.'],
+   
     ['What is the meaning of the word "chatbot"?', 'A chatbot is a computer program designed to simulate conversation with human users, especially over the internet.'],
     ['What is your favorite color?', 'As an AI, I don\'t have the ability to have a favorite color.'],
     ['Can you play music?', 'I don\'t have the capability to play music directly, but I can help you find music by recommending websites or apps.'],
     ['What is your favorite food?', 'I don\'t have the ability to eat or taste food, so I don\'t have a favorite food.'],
     ['What is your favorite animal?', 'As an AI, I don\'t have the ability to have preferences or favorites.'],
-    ['What is the meaning of the word "artificial intelligence"?', 'Artificial intelligence refers to the simulation of human intelligence in machines that are programmed to think and learn like humans.'],
-    ['What is the population of New York City?', 'As of 2021, the estimated population of New York City is over 8 million people.'],
+   
+   
     ['What is the tallest mountain in the world?', 'Mount Everest is the tallest mountain in the world, with a height of 29,029 feet (8,848 meters).'],
-    ['Can you tell me a random fact?', 'Sure! Did you know that a group of flamingos is called a "flamboyance"?'],
-    ['What is the capital of Japan?', 'The capital of Japan is Tokyo.'],
-    ['What is the meaning of the word "robot"?', 'A robot is a machine that is capable of carrying out a complex series of actions automatically, especially by being programmed by a computer.'],
-    ['What is the population of New York City?', 'As of 2021, the estimated population of New York City is over 8 million people.'],
-    ['What is the tallest mountain in the world?', 'Mount Everest is the tallest mountain in the world, with a height of 29,029 feet (8,848 meters).'],
-    ['Can you tell me a random fact?', 'Sure! Did you know that a group of flamingos is called a "flamboyance"?'],
-    ['What is the capital of Japan?', 'The capital of Japan is Tokyo.'],
-    ['What is the meaning of the word "robot"?', 'A robot is a machine that is capable of carrying out a complex series of actions automatically, especially by being programmed by a computer.'],
+ 
     ['What is your favorite sport?', 'As an AI, I don\'t have the ability to have preferences or favorites.'],
     ['Can you tell me a story?', 'Sure, what kind of story would you like to hear?'],
 ]
+
+
