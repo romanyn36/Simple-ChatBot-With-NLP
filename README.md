@@ -6,43 +6,43 @@
 
 </p>
 
-<h1 align="center">Simble ChatBot With NLP</h1>
+<h1 align="center">Simple ChatBot With NLP</h1>
 
 <p align="center">
 
 <!-- contributors -->
-<a href="https://github.com/romanyn36/Chat_bot/graphs/contributors">
+<a href="https://github.com/romanyn36/Simple-ChatBot-With-NLP/graphs/contributors">
 
-  <img src="https://img.shields.io/github/contributors/romanyn36/Chat_bot.svg?style=flat" alt="Contributors" />
+  <img src="https://img.shields.io/github/contributors/romanyn36/Simple-ChatBot-With-NLP.svg?style=flat" alt="Contributors" />
   
 </a>
 
 
 <!-- issues -->
-<a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/issues">
-  <img src="https://img.shields.io/github/issues/romanyn36/Chat_bot.svg?style=flat" alt="issues" />
+<a href="https://github.com/romanyn36/Simple-ChatBot-With-NLP/issues">
+  <img src="https://img.shields.io/github/issues/romanyn36/Simple-ChatBot-With-NLP.svg?style=flat" alt="issues" />
 </a>
   
-<img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/Simble-ChatBot-With-NLP?color=yellow">
+<img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/Simple-ChatBot-With-NLP?color=yellow">
 
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/Chat_bot?color=blue">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/Simple-ChatBot-With-NLP?color=blue">
   
 
 
 <!-- forks -->
-<a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/network/members">
+<a href="https://github.com/romanyn36/Simple-ChatBot-With-NLP/network/members">
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/Simble-ChatBot-With-NLP.svg?color=cyan" alt="forks"/>
+  <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/Simple-ChatBot-With-NLP.svg?color=cyan" alt="forks"/>
 </a>
 
 
   
 
 <!-- stars -->
-  <a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/stargazers">
+  <a href="https://github.com/romanyn36/Simple-ChatBot-With-NLP/stargazers">
   
-  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/Simble-ChatBot-With-NLP?color=56BEB8"  alt="stars" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/Simple-ChatBot-With-NLP?color=56BEB8"  alt="stars" />
 
 </a>
 
@@ -131,7 +131,7 @@ The following tools were used in this project:
 first create new environment or work in existing one if requirments satsfied 
 ```bash
 # Clone this project
-$ git clone https://github.com/romanyn36/Simble-ChatBot-With-NLP.git
+$ git clone https://github.com/romanyn36/Simple-ChatBot-With-NLP.git
 
 use pip to install libraries 
 $ pip install tensorflow==2.12.0
