@@ -19,11 +19,11 @@
 
 
 <!-- issues -->
-<a href="https://github.com/romanyn36/Chat_bot/issues">
+<a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/issues">
   <img src="https://img.shields.io/github/issues/romanyn36/Chat_bot.svg?style=flat" alt="issues" />
 </a>
   
-<img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/Chat_bot?color=yellow">
+<img alt="Github top language" src="https://img.shields.io/github/languages/top/romanyn36/Simble-ChatBot-With-NLP?color=yellow">
 
 
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/romanyn36/Chat_bot?color=blue">
@@ -31,18 +31,18 @@
 
 
 <!-- forks -->
-<a href="https://github.com/romanyn36/Chat_bot/network/members">
+<a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/network/members">
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/Chat_bot.svg?color=cyan" alt="forks"/>
+  <img alt="Github forks" src="https://img.shields.io/github/forks/romanyn36/Simble-ChatBot-With-NLP.svg?color=cyan" alt="forks"/>
 </a>
 
 
   
 
 <!-- stars -->
-  <a href="https://github.com/romanyn36/Chat_bot/stargazers">
+  <a href="https://github.com/romanyn36/Simble-ChatBot-With-NLP/stargazers">
   
-  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/Chat_bot?color=56BEB8"  alt="stars" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/romanyn36/Simble-ChatBot-With-NLP?color=56BEB8"  alt="stars" />
 
 </a>
 
@@ -132,7 +132,7 @@ The following tools were used in this project:
 first create new environment or work in existing one if requirments satsfied 
 ```bash
 # Clone this project
-$ git clone https://github.com/romanyn36/Chat_bot.git
+$ git clone https://github.com/romanyn36/Simble-ChatBot-With-NLP.git
 
 use pip to install libraries 
 $ pip install tensorflow==2.12.0
